@@ -369,7 +369,7 @@ Step 6
 
 
 
-## **Linux storage susbystem has been configured and a full-scale Web Solution using WordPress CMS and MySQL RDBMS have been deployed.**
+## **Linux storage subsystem have been configured and a full-scale Web Solution using WordPress CMS and MySQL RDBMS have been deployed.**
 
 
 
